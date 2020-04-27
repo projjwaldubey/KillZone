@@ -1,0 +1,20 @@
+.body{
+  text-align: center;
+  background-color: black
+}
+
+
+.jumbotron{
+  margin:auto;
+  width: 50%;
+  text-align: center
+}
+
+#lbl{
+  margin-bottom: 1px
+}
+
+.btn{
+  margin-top: 5px;
+  width: 50%
+}
